@@ -39,10 +39,14 @@ function multiply(a, b){
 
 # Courses
 
+![w3schools](./images/w3school.png "W3schools skills")
+
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 # Languages 
 
-* English Intermediate
+![efset](./images/efset.png "English skills")
+
+* English Intermediate 
 * Russian native
 * Belorussian Basic
