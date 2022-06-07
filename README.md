@@ -1,1 +1,1 @@
-https://Loontek.github.io/rsschool-cv/cv
+https://Loontek.github.io/rsschool-cv/
